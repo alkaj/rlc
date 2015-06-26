@@ -1,0 +1,45 @@
+<section layout="column" layout-fill>
+<md-whiteframe class="mask" data-ng-click="menu=0" layout-fill ng-show="menu"></md-whiteframe>		
+<!-- title bar -->
+		<md-toolbar>
+			<div class="md-toolbar-tools">
+				<md-button class="md-icon-button" aria-label="logo">
+			<img src="/css/img/logo.png" alt="" style="height:32px;width:32px;" />
+					</md-button>
+			<h2>Real Life Chat</h2>
+				<span flex></span>
+			<md-button flex="10" class="md-icon-button" aria-label="more" data-ng-click="menu=!menu">
+				<md-icon md-svg-src="/css/img/menu.svg"></md-icon>
+			</md-button>
+			</div>
+		</md-toolbar>
+		<!-- /title -->
+<md-content>
+<div layout="column"  layout-align="center center" >
+	<p>Welcome to RTL fill this form to continue</p>
+	<form>
+	  <md-input-container>
+			<label>Your login:</label>
+			<input type="text" />
+		</md-input-container>
+	  <md-input-container>
+			<label>Your password:</label>
+			<input type="password" />
+		</md-input-container>
+		<md-checkbox ng-model="member">I am already member</md-checkbox>
+	  <md-input-container ng-hide="member">
+			<label>Repeat your password:</label>
+			<input type="password" />
+		</md-input-container>
+	  <md-input-container ng-hide="member">
+			<label>Your email:</label>
+			<input type="email" />
+		</md-input-container>
+		<div layout="row" layout-align="space-between" >
+		 <md-button aria-label="continue" class="md-raised">Continue</md-button>
+		 <md-button arial-label="cancel" class="md-raised">Cancel</md-button>
+		</div>
+	</form>
+</div>
+</md-content>
+</section>

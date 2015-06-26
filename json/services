@@ -1,0 +1,27 @@
+[
+{
+"nom": "Service CREDIT",
+"index": 0,
+"description": "Tous les services lies a la gestion du credit"
+},
+{
+"nom": "Forfaits APPEL",
+"index": 1,
+"description": "Services lies a la gestions des forfaits appel "
+},
+{
+"nom": "Forfaits SMS",
+"index": 2,
+"description": "Services lies a la gestion des forfaits sms "
+},
+{
+"nom": "Forfaits INTERNET",
+"index": 3,
+"description": "services lies a la gestion des forfaits internet "
+},
+{
+"nom": "Extras",
+"index": 4,
+"description": " options telles que beepme, mobile money, call me back ...etc. "
+}
+]

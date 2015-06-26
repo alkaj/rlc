@@ -1,0 +1,107 @@
+.round{
+  border-radius: 20px !important;
+}
+.blue{
+  color:blue;
+}
+md-divider{
+  color:blue;
+}
+.bottom{
+  color:white;
+  background-color: rgba(0,0,0,.6)
+}
+.bottom img{
+  position:relative;
+  top:7px;
+}
+.mask{
+  position:fixed;
+  height:100%;
+  width: 100%;
+  z-index: 30;
+  background-color: rgba(0,0,0,0.1);
+}
+.mask:active{
+  background-color: rgba(0,0,0,0.1);
+}
+.menu div{
+  padding: 4px 6px 4px 6px;
+}
+.menu div:active{
+  background-color:rgba(0,0,255,.3);
+} 
+.menu.ng-hide-remove{
+  animation:menu .4s;
+}
+.menu{
+  position:fixed;
+  z-index: 90;
+  right:5%;
+  background-color: white;
+}
+.backi{
+  position:relative;
+  right:10px;
+}
+.white{
+  background-color: white;
+}
+.test{
+  animation:test .5s linear 8 alternate;
+}
+.slide.ng-enter{
+  animation:slidein 1s linear infinite alternate-reverse;
+}
+.expand.ng-hide-remove{
+  animation:unfold .2s linear;
+}
+.expand.ng-hide-add{
+  animation:fold .2s linear;
+}
+
+@keyframes slidein{
+  from{
+    top:200px;
+  }
+  to{
+    top:0px;
+  }
+}
+@keyframes unfold{
+  from{
+    height:0px;
+    background-color: rgba(0,0,0,.5);
+  }
+  to{
+    height:60px;
+    background-color: rgba(0,0,0,0);
+  }
+}
+@keyframes fold{
+  from{
+    height:60px;
+    background-color: rgba(0,0,0,0);
+  }
+  to{
+    height:0px;
+    background-color: rgba(0,0,0,.5);
+  }
+}
+@keyframes test{
+  from {
+    opacity:1;
+  }
+  50%{opacity:.5}
+  80%{opacity:.3}
+  to {
+    opacity:0;
+  }
+}
+@keyframes menu{
+  from{right:100%;}
+  80%{right:0%}
+  90%{right:2%}
+  95%{right:4%}
+  to{right:5%;}
+}

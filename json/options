@@ -1,0 +1,611 @@
+[{
+   "titre":"Solde principal",
+   "index":0,
+   "numero":"*155#",
+   "description":"Consulter le solde de votre compte principal.",
+   "service":0,
+   "op":0
+  },{
+   "titre":"Emprunter du credit",
+   "index":1,
+   "numero":"*121*Montant#",
+   "description":"Emprunter du credit pour rembourser a la prochaine recharge.",
+   "service":0,
+   "op":0
+  },{
+   "titre":"Transferer du credit",
+   "index":2,
+   "numero":"*150*Montant*Numero*Code Me2U#",
+   "description":"Tranferer du credit a un proche.",
+   "service":0,
+   "op":0
+  },{
+   "titre":"Solde prolongation",
+   "index":3,
+   "numero":"*159*86#",
+   "description":"Consulter votre solde MTN prolongation",
+   "service":0,
+   "op":0
+  },{
+   "titre":"Solde prolongation",
+   "index":4,
+   "numero":"*159*86#",
+   "description":"Consulter votre solde MTN prolongation",
+   "service":10,
+   "op":0
+  },{
+   "titre":"Solde EasyBooster",
+   "index":5,
+   "numero":"*159*80#",
+   "description":"Consultez votre solde easybooster",
+   "service":0,
+   "op":0
+  },{
+   "titre":"Solde internet",
+   "index":6,
+   "numero":"*147*9#",
+   "description":"Consulter votre solde internet.",
+   "service":0,
+   "op":0
+  },{
+   "titre":"Solde bonus just4U",
+   "index":7,
+   "numero":"*159*87#",
+   "description":"Consultez votre solde bonus just4U.",
+   "service":0,
+   "op":0
+  },{
+   "titre":"Solde bonus MTN Rewards Dimanche",
+   "index":8,
+   "numero":"*159*17#",
+   "description":"Consultez votre solde bonus MTN Rewards du dimanche.",
+   "service":0,
+   "op":0
+  },{
+   "titre":"Solde bonus APPELS",
+   "index":9,
+   "numero":"*159*2#",
+   "description":"Consultez votre solde bonus d'appels",
+   "service":0,
+   "op":0
+  },{
+   "titre":"Solde bonus SMS",
+   "index":10,
+   "numero":"*159*3#",
+   "description":"Consultez votre solde bonus de SMS",
+   "service":0,
+   "op":0
+  },{
+   "titre":"Solde bonus MTN Rewards",
+   "index":11,
+   "numero":"*159*122#",
+   "description":"Consultez votre solde bonus MTN Rewards",
+   "service":0,
+   "op":0
+  },{
+   "titre":"Solde bonus MTN Mobile Money",
+   "index":12,
+   "numero":"*159*123#",
+   "description":"Consultez votre solde bonus MTN Mobile Money",
+   "service":0,
+   "op":0
+  },{
+   "titre":"Solde bonus MTN Promo Samedi",
+   "index":13,
+   "numero":"*159*106#",
+   "description":"Consultez votre solde bonus MTN Promo Samedi",
+   "service":0,
+   "op":0
+  },{
+   "titre":"Activer MTN EasyBooster",
+   "index":14,
+   "numero":"*167*1#",
+   "description":"Recevez du bonus de credit sur votre recharge prochaine:environ 300%.",
+   "service":1,
+   "op":0
+  },{
+   "titre":"MTN BEST",
+   "index":15,
+   "numero":"*170*2#",
+   "description":"Souscrivez a l'offre tarrifaire MTN Best",
+   "service":1,
+   "op":0
+  },{
+   "titre":"MTN 25",
+   "index":16,
+   "numero":"*170*4#",
+   "description":"Souscrivez a l'offre tarrifaire MTN 25 payez 25FCFA/Min.",
+   "service":1,
+   "op":0
+  },{
+   "titre":"MTN Sky",
+   "index":17,
+   "numero":"*170*3#",
+   "description":"Souscrivez a l'offre tarrifaire MTN Sky.",
+   "service":1,
+   "op":0
+  },{
+   "titre":"MTN Elite",
+   "index":18,
+   "numero":"*170*6#",
+   "description":"Souscrivez a l'offre tarrifaire MTN Elite.",
+   "service":1,
+   "op":0
+  },{
+   "titre":"MTN Freedom 3000",
+   "index":19,
+   "numero":"*702*1#",
+   "description":"Souscrivez a l'offre tarrifaire MTN Freedom 3000.",
+   "service":1,
+   "op":0
+  },{
+   "titre":"MTN Freedom 5000",
+   "index":20,
+   "numero":"*702*2#",
+   "description":"Souscrivez a l'offre tarrifaire MTN Freedom 5000.",
+   "service":1,
+   "op":0
+  },{
+   "titre":"MTN Freedom 15000",
+   "index":21,
+   "numero":"*702*3#",
+   "description":"Souscrivez a l'offre tarrifaire MTN Freedom 15000.",
+   "service":1,
+   "op":0
+  },{
+   "titre":"Solde MTN Freedom",
+   "index":22,
+   "numero":"*702*9#",
+   "description":"Consultez votre solde MTN Freedom.",
+   "service":0,
+   "op":0
+  },{
+   "titre":"Souscrire a MTN Rewards Dimanche",
+   "index":23,
+   "numero":"*125*10#",
+   "description":"Souscrivez a l'offre MTN Reward Dimanche 500 pour 10.000.",
+   "service":1,
+   "op":0
+  },{
+   "titre":"Souscrire a MTN 'Text On The Go'",
+   "index":24,
+   "numero":"*148*5#",
+   "description":"Souscrivez a l'offre MTN Text On The Go a 20FCFA/jour",
+   "service":2,
+   "op":0
+  },{
+   "titre":"Souscrire a MTN 'UnlimitText'",
+   "index":25,
+   "numero":"*148*5#",
+   "description":"Souscrivez a l'offre MTN UnlimitTex a 500FCFA/mois et envoyez des SMS en illimite sur le reseau MTN pendant tout le mois.",
+   "service":2,
+   "op":0
+  },{
+   "titre":"Beep Me",
+   "index":26,
+   "numero":"*166*Numero de votre correspondant#",
+   "description":"Demander a MTN de signaler a votre correspondant que vous souhaitez qu'il vous rappelle.",
+   "service":4,
+   "op":0
+  },{
+   "titre":"Portail des Services MTN",
+   "index":27,
+   "numero":"*123#",
+   "description":"Services MTN",
+   "service":4,
+   "op":0
+  },{
+   "titre":"Service Client",
+   "index":28,
+   "numero":"7123",
+   "description":"Service client MTN",
+   "service":4,
+   "op":0
+  },{
+   "titre":"Forfait Jour",
+   "index":29,
+   "numero":"*147*1*1#",
+   "description":"Acheter 500MB de donnees a 500FCFA valident pour 24 heures.",
+   "service":3,
+   "op":0
+  },{
+   "titre":"Forfait Nuit",
+   "index":30,
+   "numero":"*147*6*1#",
+   "description":"Acheter 100MB de donnees a 150FCFA valident de minuit a 06 heures.",
+   "service":3,
+   "op":0
+  },{
+   "titre":"Forfait Semaine",
+   "index":31,
+   "numero":"*147*3*1#",
+   "description":"Acheter 1GB de donnees a 3000FCFA valident pour 7 jours.",
+   "service":3,
+   "op":0
+  },{
+   "titre":"Jour Mini",
+   "index":32,
+   "numero":"*147*2*1#",
+   "description":"Acheter 100MB de donnees a 250FCFA valident pendant 24 heures.",
+   "service":3,
+   "op":0
+  },{
+   "titre":"Service client",
+   "index":33,
+   "numero":"950",
+   "description":"Service client de Orange Cameroun",
+   "service":4,
+   "op":1
+  },{
+   "titre":"Services Orange",
+   "index":34,
+   "numero":"#111#",
+   "description":"Portail ussd des services Orange",
+   "service":4,
+   "op":1
+  },{
+   "titre":"Mon numero",
+   "index":35,
+   "numero":"#99#",
+   "description":"Connaitre votre numero de telephone",
+   "service":4,
+   "op":1
+  },{
+   "titre":"Solde",
+   "index":36,
+   "numero":"#123#",
+   "description":"Consulter le solde de son compte principal .. renvoyer 0 et suivre les instructions pour les comptes bonus.",
+   "service":0,
+   "op":1
+  },{
+   "titre":"Forfait SMS jour",
+   "index":37,
+   "numero":"#131*1*1*1#",
+   "description":"Acheter ce forfait pour envoyer des messages sur le reseau Orange pendant 24 heures.",
+   "service":2,
+   "op":1
+  },{
+   "titre":"Forfait SMS Semaine",
+   "index":38,
+   "numero":"#131*1*2*1#",
+   "description":"Acheter ce forfait pour envoyer des messages sur le reseau Orange pendant une semaine.",
+   "service":2,
+   "op":1
+  },{
+   "titre":"Forfait SMS Mois",
+   "index":39,
+   "numero":"#131*1*3*1#",
+   "description":"Acheter ce forfait pour envoyer des messages sur le reseau Orange pendant un mois.",
+   "service":2,
+   "op":1
+  },{
+   "titre":"Orange bonus",
+   "index":40,
+   "numero":"#131*2#",
+   "description":"Multiplier du credit ... validez par 1 si la proposition vous convient.",
+   "service":1,
+   "op":1
+  },{
+   "titre":"Recharge Plenty",
+   "index":41,
+   "numero":"#131*3*1#",
+   "description":"Appellez a 15F/min pour la prochaine recharge de plus de 500FCFA et a 20/min si la prochaine recharge es inferieure a 500FCFA.",
+   "service":1,
+   "op":1
+  },{
+   "titre":"Orange Call Me Back",
+   "index":42,
+   "numero":"#146*Numero de votre correspondant#",
+   "description":"Demander a orange d'avertir votre correspondant que vous souhaitez etre rappelle.",
+   "service":4,
+   "op":1
+  },{
+   "titre":"Transferrez du credit",
+   "index":43,
+   "numero":"#144*Numero de votre correspondant*Montant a transferrer#",
+   "description":"Transferrez du credit de communication a vos proches.",
+   "service":0,
+   "op":1
+  },{
+   "titre":"Recharge par carte",
+   "index":44,
+   "numero":"#188*Numero de la carte#",
+   "description":"Rechargez du credit de communication en utilisant une carte prepayee.",
+   "service":0,
+   "op":1
+  },{
+   "titre":"Empruntez du credit",
+   "index":45,
+   "numero":"#133#",
+   "description":"Empruntez du credit de communication pour le rembourser lors de la prochaine recharge.",
+   "service":0,
+   "op":1
+  },{
+   "titre":"Messagerie vocale",
+   "index":46,
+   "numero":"999",
+   "description":"Consultez votre messagerie vocale",
+   "service":4,
+   "op":1
+  },{
+   "titre":"Numero favori",
+   "index":47,
+   "numero":"#915#",
+   "description":"Votre numero favori",
+   "service":4,
+   "op":1
+  },{
+   "titre":"Orange Money",
+   "index":48,
+   "numero":"#150#",
+   "description":"Accedez au service Orange Money",
+   "service":4,
+   "op":1
+  },{
+   "titre":"Orange Fidelite",
+   "index":49,
+   "numero":"#140#",
+   "description":"Accedez au programme de fidelite d'Orange Cameroun.",
+   "service":0,
+   "op":1
+  },{
+   "titre":"Rachat de validite",
+   "index":50,
+   "numero":"#147#",
+   "description":"Validez ce numero pour empecher votre compte d'expirer...pour que Orange ne coupe pas votre ligne.",
+   "service":0,
+   "op":1
+  },{
+   "titre":"Orange Fun Tunes",
+   "index":51,
+   "numero":"986",
+   "description":"Modifiez votre sonnerie d'attente... la sonnerie que vos correspondants entendent lorsqu'ils vous appellent.",
+   "service":4,
+   "op":1
+  },{
+   "titre":"My Health Line",
+   "index":52,
+   "numero":"929",
+   "description":"La ligne d'infos sante d'Orange Cameroun.",
+   "service":4,
+   "op":1
+  },{
+   "titre":"Week-end Surprise",
+   "index":53,
+   "numero":"#195#",
+   "description":"Surprise du week end.",
+   "service":4,
+   "op":1
+  },{
+   "titre":"Internet Jour 50MB",
+   "index":54,
+   "numero":"#145*2*3*1*1#",
+   "description":"Achetez 50MB(parfois 100MB les week-end) de donnees a 100FCFA valident pendant 24h",
+   "service":3,
+   "op":1
+  },{
+   "titre":"Internet Jour 150MB",
+   "index":55,
+   "numero":"#145*2*3*2*1#",
+   "description":"Achetez 150MB(parfois 300MB les week-end) de donnees a 300FCFA valident pendant 24h",
+   "service":3,
+   "op":1
+  },{
+   "titre":"Internet Jour 300MB",
+   "index":56,
+   "numero":"#145*2*3*3*1#",
+   "description":"Achetez 300MB(parfois 600MB les week-end) de donnees a 500FCFA valident pendant 24h",
+   "service":3,
+   "op":1
+  },{
+   "titre":"Internet Semaine 120MB",
+   "index":57,
+   "numero":"#145*2*2*1*1#",
+   "description":"Achetez 120MB de donnees a 1.000FCFA valident pendant une semaine.",
+   "service":3,
+   "op":1
+  },{
+   "titre":"Internet Semaine 400MB",
+   "index":58,
+   "numero":"#145*2*2*2*1#",
+   "description":"Achetez 300MB de donnees a 2.000FCFA valident pendant une semaine",
+   "service":3,
+   "op":1
+  },{
+   "titre":"Internet Mois 600MB",
+   "index":59,
+   "numero":"#145*2*1*1*1#",
+   "description":"Achetez 600MB de donnees a 5.000FCFA valident pendant un mois",
+   "service":3,
+   "op":1
+  },{
+   "titre":"Internet Mois 1.2GB",
+   "index":60,
+   "numero":"#145*2*1*2*1#",
+   "description":"Achetez 1.2GB de donnees a 8.000FCFA valident pendant un mois",
+   "service":3,
+   "op":1
+  },{
+   "titre":"Internet Mois 2GB",
+   "index":61,
+   "numero":"#145*2*1*3*1#",
+   "description":"Achetez 2GB de donnees a 10.000FCFA valident pendant un mois.",
+   "service":3,
+   "op":1
+  },{
+   "titre":"Internet Mois 5GB",
+   "index":62,
+   "numero":"#145*2*1*4*1#",
+   "description":"Achetez 5GB de donnees a 25.000FCFA valident pendant un Mois",
+   "service":3,
+   "op":1
+  },{
+   "titre":"Orange BlackBerry",
+   "index":63,
+   "numero":"#145*3#",
+   "description":"Souscrivez au service ou achetez un forfait BlackBerry d'orange Cameroun.",
+   "service":3,
+   "op":1
+  },{
+   "titre":"Orange World et Facebook",
+   "index":64,
+   "numero":"#145*4#",
+   "description":"Souscrivez au forfaits 'Orange World' ou 'Facebook' d'Orange Cameroun.",
+   "service":3,
+   "op":1
+  },{
+   "titre":"Solde Internet",
+   "index":65,
+   "numero":"#145*1#",
+   "description":"Consultez le solde de votre compte Internet.",
+   "service":0,
+   "op":1
+  },{
+   "titre":"Plenty Classic",
+   "index":66,
+   "numero":"#141*1#",
+   "description":"Souscrivez au plan tariffaire Plenty Classic.",
+   "service":0,
+   "op":1
+  },{
+   "titre":"Plenty Fun",
+   "index":67,
+   "numero":"#141*2#",
+   "description":"Souscrivez au plan tariffaire Plenty Fun.",
+   "service":0,
+   "op":1
+  },{
+   "titre":"Plenty Smart",
+   "index":68,
+   "numero":"#141*3#",
+   "description":"Souscrivez au plan tariffaire Plenty Smart.",
+   "service":0,
+   "op":1
+  },{
+   "titre":"Plenty Relax",
+   "index":69,
+   "numero":"#141*4#",
+   "description":"Souscrivez au plan tariffaire Plenty Relax.",
+   "service":0,
+   "op":1
+  },{
+   "titre":"Family Talk",
+   "index":70,
+   "numero":"#141*5#",
+   "description":"Souscrivez au plan tariffaire Family Talk.",
+   "service":0,
+   "op":1
+  },{
+   "titre":"service client",
+   "index":71,
+   "numero":"8123",
+   "description":"Service client Nexttel Cameroun.",
+   "service":4,
+   "op":2
+  },{
+   "titre":"Mon Numero",
+   "index":72,
+   "numero":"*600#",
+   "description":"Connaitre son numero de telephone.",
+   "service":4,
+   "op":2
+  },{
+   "titre":"Recharge par carte",
+   "index":73,
+   "numero":"*802*Numero de la carte#",
+   "description":"Recharger son compte en utilisant une carte prepayee Nexttel.",
+   "service":0,
+   "op":2
+  },{
+   "titre":"Solde Principal",
+   "index":74,
+   "numero":"*801#",
+   "description":"Connaitre son solde principal.",
+   "service":0,
+   "op":2
+  },{
+   "titre":"Solde Bonus",
+   "index":75,
+   "numero":"*801*1#",
+   "description":"Consulter vos soldes de bonus Nexttel.",
+   "service":0,
+   "op":2
+  },{
+   "titre":"Transfert de Credit",
+   "index":76,
+   "numero":"*869*Votre Mot de passe*Numero du correspondant*Montant#",
+   "description":"Transferrer du credit a un proche.",
+   "service":0,
+   "op":2
+  },{
+   "titre":"Solde Internet",
+   "index":77,
+   "numero":"*865*1#",
+   "description":"Consulter son solde internet.",
+   "service":0,
+   "op":2
+  },{
+   "titre":"Forfaits Internet",
+   "index":78,
+   "numero":"*865#",
+   "description":"Souscrire a un forfait Internet.",
+   "service":3,
+   "op":2
+  },{
+   "titre":"Activer Eco+",
+   "index":79,
+   "numero":"*805#",
+   "description":"Recevez 400% du montant de votre recharge.",
+   "service":1,
+   "op":2
+  },{
+   "titre":"Activer Next15+",
+   "index":80,
+   "numero":"*805*1#",
+   "description":"Appellez a 15F/min.",
+   "service":1,
+   "op":2
+  },{
+   "titre":"Solde Next15+",
+   "index":81,
+   "numero":"*805*21#",
+   "description":"Consulter son solde Next+15.",
+   "service":0,
+   "op":2
+  },{
+   "titre":"FT100 100->500",
+   "index":82,
+   "numero":"*860*21#",
+   "description":"Convertir 100F de son credit en 500F pour 24h.",
+   "service":1,
+   "op":2
+  },{
+   "titre":"FT200 200->1000",
+   "index":83,
+   "numero":"*860*22#",
+   "description":"Convertir 200F de son credit en 1000F pour 24h.",
+   "service":1,
+   "op":2
+  },{
+   "titre":"FT500 500->2500",
+   "index":84,
+   "numero":"*860*23#",
+   "description":"Convertir 500F de son credit en 2500F pour 3 jours.",
+   "service":1,
+   "op":2
+  },{
+   "titre":"FT300 Bonus weekend",
+   "index":85,
+   "numero":"*860*24#",
+   "description":"Convertir 300F de son credit pour profiter des bbonus appel et sms en weekend.",
+   "service":1,
+   "op":2
+  },{
+   "titre":"Solde FT",
+   "index":86,
+   "numero":"*860*1#",
+   "description":"Consulter le solde de ses Forfaits FT.",
+   "service":0,
+   "op":2
+  }
+  ]
