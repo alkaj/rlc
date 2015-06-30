@@ -4,12 +4,7 @@
     "description": "web developer to Firefox OS app developer workshop template app" ,
       "version":"2.0",
 	"icons": {
-        "256":"/css/img/logo_256.png",
-        "60":"/css/img/logo_60.png" ,
           "128": "/css/img/logo.png" ,
-            "48": "/css/img/logo_48.png" ,
-              "32":"/css/img/logo_32.png",
-              "16": "/css/img/logo_16.png"
       },
         "developer": {
           "name": "AL KAJ" ,
